@@ -21,3 +21,7 @@ Source CSV
 fear_greed_index.csv  : "https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing"
 historical_data.csv  : "https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing"
 
+
+- `analysis.ipynb` → Full EDA (code + comments + plots)  
+- `csv_files/` → Place your input CSVs here  
+- `merged_trading_sentiment.csv` → Output (generated) 
