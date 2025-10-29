@@ -11,8 +11,7 @@ trading-sentiment-analysis
 ├── README.md                 
 ├── requirements.txt        
 ├── analysis.ipynb            
-│
 └── csv_files/                
-   ├── fear_greed_index.csv  
-   ├── historical_data.csv  
-   └── merged_trading_sentiment.csv 
+      ├── fear_greed_index.csv  
+      ├── historical_data.csv  
+      └── merged_trading_sentiment.csv 
