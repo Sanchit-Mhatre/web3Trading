@@ -15,3 +15,5 @@ trading-sentiment-analysis
       ├── fear_greed_index.csv  
       ├── historical_data.csv  
       └── merged_trading_sentiment.csv 
+      
+curl -L https://opensource.org/licenses/MIT > LICENSE
