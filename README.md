@@ -4,6 +4,8 @@ This project analyzes historical trading data from multiple cryptocurrency accou
 
 
 For better Understanig View in code
+
+
 trading-sentiment-analysis/
 │
 ├── README.md                 # Project overview, installation, usage, etc. (as generated)
